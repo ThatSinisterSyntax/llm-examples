@@ -1,6 +1,5 @@
 # 🎈 Streamlit + LLM Examples App
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
 
 Starter examples for building LLM apps with Streamlit.
 
@@ -18,8 +17,6 @@ Current examples include:
 - Chat with user feedback
 
 ## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-examples.streamlit.app/)
 
 ### Get an OpenAI API key
 
